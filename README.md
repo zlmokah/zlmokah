@@ -21,7 +21,4 @@
 ---
 [![](https://komarev.com/ghpvc/?username=zlmokah&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHozMGVtN2tlZHFwN2R1YXhkb2d6YXRldzdzZzZoNmk5eWY2YzdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mQ7PPmjKCv7lQGLaeJ/giphy.gif"  />
-</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
