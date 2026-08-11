@@ -15,12 +15,13 @@
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<div data-importer="music" align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=zlmokah&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=zlmokah&icon=0&color=0)](https://visitcount.itsvg.in)
-<div data-importer="music" align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
